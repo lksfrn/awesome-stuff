@@ -14,3 +14,4 @@ List of awesome things I keep an eye on
 - [Next](https://github.com/vercel/next.js)
 - [Storybook](https://github.com/storybookjs/storybook)
 - [LintStaged](https://github.com/okonet/lint-staged)
+- [BurnMyWindows](https://github.com/Schneegans/Burn-My-Windows)
